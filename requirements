@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+httpx
+numpy
+matplotlib
+pillow
+nest_asyncio
