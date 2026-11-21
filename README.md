@@ -54,8 +54,6 @@ speculative-jev-gateway/
 ├── speculative_gateway.py     # Three-way calibrated routing & Baseline vs. Jev engines
 ├── evaluate.py                # Async benchmark runner & monochrome chart exporter
 │
-├── docs/
-│   ├── technical_report.pdf   # Full technical report
-│   └── presentation.pptx      # Project presentation slides
-│
-└── output/                    # Exported single-channel ("L" mode) B&W PNG comparison plots
+└── docs/
+     └── technical_report.pdf   # Full technical report
+
